@@ -1,0 +1,7 @@
+D:\Modulo2Simplificator\Modulo2Simplificator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Modulo2Simplificator\Modulo2Simplificator\obj\x86\Debug\System.Runtime.CompilerServices.ExtensionAttribute.resources
+D:\Modulo2Simplificator\Modulo2Simplificator\obj\x86\Debug\Modulo2Simplificator.csproj.GenerateResource.Cache
+D:\Modulo2Simplificator\Modulo2Simplificator\bin\Debug\Modulo2Simplificator.exe
+D:\Modulo2Simplificator\Modulo2Simplificator\bin\Debug\Modulo2Simplificator.pdb
+D:\Modulo2Simplificator\Modulo2Simplificator\obj\x86\Debug\Modulo2Simplificator.exe
+D:\Modulo2Simplificator\Modulo2Simplificator\obj\x86\Debug\Modulo2Simplificator.pdb

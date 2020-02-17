@@ -1,0 +1,49 @@
+------------
+Notatiile mele:
+xor = +
+and = *
+
+Am vazut ca in algebra booleana se fac
+alte notatii:
+and = *
+or = +
+
+------------
+x1+x2+x1*x2+x2*x3 = 1
+x1+x2+x1*x2 = x1 or x2
+nu stiu daca voi folosi astfel de inlocuiri.
+------------
+Cand avem o variabila inmultita cu alta variabila nu putem
+imparti fiindca astfel presupunem ca la ce am impartit
+este diferit de zero, putem in schimb factoriza:
+Exemplul 1:
+x5*x6+x5*x7+x5*x8+x2*x6+x2*x7+x2*x8=
+x5*(x6+x7+x8)+x2*(x6+x7+x8)=
+(x5+x2)*(x6+x7+x8)
+
+Exemplul 2 :
+x1+x2+x3+x1x2+x1x3+x2x3+1
+x1+x2+x1x2+x2x3+1
+x1+x3+x1x2+x2x3+1
+
+simplificarea sistemului este:
+x1*x3+x3
+x2+x3
+1+x1+x1*x2+x2*x3+x3
+
+x2(x1+x3)+x1+x3+1
+
+a treia ecuatie =>
+x1(1+x2)+x3(1+x2)+1 = 0
+=>
+(1+x2)(x1+x3)+1 = 0
+
+De asemenea prima ecuatie poate fi scrisa ca:
+x3*(1+x1)=0
+
+
+
+1+x1+x1*x2+x2*x3+x3
+Bilinearele (x1*x2+x2*x3) au in comun x2:
+deci scoatem x2*(x1+x3)+(x1+x3)+1=0
+ce au in comun
